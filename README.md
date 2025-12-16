@@ -3,7 +3,7 @@ Python Weather APP Project
 
 This is a simple Python project to fetch weather details for a city using openweathermap.org API.
 
-See requirement.txt file packages necessary to run the code.
+See requirement.txt file for packages necessary to run the code.
 
 You will need to create an account on openweathermap.org and get your own API key to run the code.
 
